@@ -29,7 +29,8 @@ composer require symbiote/silverstripe-memberprofiles:~2.0
 
 ## Documentation
 
-* [Quick Start](docs/en/quick-start.md)
+* [Getting Started](docs/en/getting-started.md)
+* [Usage](docs/en/usage.md)
 * [Advanced Usage](docs/en/advanced-usage.md)
 * [License](LICENSE.md)
 * [Contributing](CONTRIBUTING.md)
