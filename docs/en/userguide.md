@@ -8,7 +8,7 @@ Registration can be enabled or disabled in the "Behaviour" tab.
 The "Profile", "Registration" and "After Registration" allow you to set an
 individual title and content to display for each of these contexts.
 
-![Example registration content](/docs/images/registration-content.jpg)
+![Example registration content](../images/registration-content.jpg)
 
 ### Profile Fields
 In the "Main" tab you are presented with a table to manage the fields that a
@@ -49,4 +49,4 @@ on the After Registration tab.
 If you like, you can manually set a redirection target by setting
 `Session::set('MemberProfile.REDIRECT')` to a URL value.
 
-See [Advanced Usage](/docs/en/advanced-usage.md) for customisation examples.
+See [Advanced Usage](./advanced-usage.md) for customisation examples.

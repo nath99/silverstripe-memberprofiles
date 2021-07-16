@@ -6,4 +6,4 @@
 
 3. Create a Member Profile Page in the CMS.
 
-See [Usage](/docs/en/usage.md) for more options.
+See [Usage](./userguide.md) for more options.
